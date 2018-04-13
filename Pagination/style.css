@@ -1,0 +1,56 @@
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+body{
+  background-color: #e1f1f6;
+  font-family: Helvetica, sans-serif;
+  color: #222;
+  padding-top: 50px;
+}
+
+
+  
+    
+*/
+/*a.disabled {
+  pointer-events: none;
+}*/
+
+
+.joined-details{
+      width: 50%;
+      float:left;
+      text-align: right;
+    }
+
+.joined-details .date{
+        margin-top: -20px;
+        display: block;
+        font-size: 14px;
+        color: #999;
+        float:right;
+ }
+
+ 
+
+      .student-details .email{
+        color: #888;
+        font-size: 14px;
+      }
+.student-details h3{
+        margin: 4px 0 2px 0;
+        font-weight: bold;
+        color: #4ba6c3;
+      }
+
+
+ .pagination li{
+      border: 1px solid #eaeaea;
+      border-radius: 5px;
+      padding: 3px 8px;
+      text-decoration: none;
+      color: #4ba6c3;
+    }
